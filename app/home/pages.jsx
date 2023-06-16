@@ -3,9 +3,6 @@ import Lottie from "lottie-react";
 import Construction from "../../public/under-construction.json";
 
 const Home = () => {
-  const hello = () => {
-    console.log(`April Fool!`);
-  };
   return (
     <>
       <div className="flex flex-col justify-center items-center ">
