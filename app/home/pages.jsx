@@ -8,13 +8,13 @@ const Home = () => {
       <div className="flex flex-col justify-center items-center ">
         <div className="flex justify-center items-center">
           <p className="text-[60px] px-2">👨‍💻</p>
-          <p className="my-10 flex justify-center items-center animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent lg:text-7xl md:text-7xl text-2xl font-black">
+          <p className="my-10 flex justify-center items-center animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent lg:text-7xl md:text-7xl text-4xl font-black">
             SMART CODES
           </p>
         </div>
 
         <div>
-          <div className="flex justify-center items-center w-[90vw] sm:w-[500px]  text-center ">
+          <div className="flex justify-center items-center w-[90vw] sm:w-[500px]  text-center">
             <p className="font-bold md:p-1 lg:p-1 text-xl">
               Your Dreams Fulfilled
             </p>
@@ -31,7 +31,7 @@ const Home = () => {
         </div>
 
         <div className="flex">
-          <p className="flex justify-center items-center text-4xl my-20 font-bold text-zinc-500">
+          <p className="flex justify-center items-center text-3xl md:text-4xl lg:text-4xl my-20 font-bold text-zinc-500">
             {"Coming Soon </>..."}
           </p>
         </div>
